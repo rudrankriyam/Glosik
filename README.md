@@ -1,5 +1,4 @@
 # Głosik
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Glosik&type=Date)](https://star-history.com/#rudrankriyam/Glosik&Date)
 
 
 Głosik (pronounced "gwoh-seek") is an example app to showcase the F5-TTS text-to-speech system using MLX Swift. The name comes from the Polish word "głos" (voice) with the diminutive suffix "-ik".
@@ -71,3 +70,5 @@ The project is split into two main parts:
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Glosik&type=Date)](https://star-history.com/#rudrankriyam/Glosik&Date)
