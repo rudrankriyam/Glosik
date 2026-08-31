@@ -70,5 +70,3 @@ The project is split into two main parts:
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Glosik&type=Date)](https://star-history.com/#rudrankriyam/Glosik&Date)
